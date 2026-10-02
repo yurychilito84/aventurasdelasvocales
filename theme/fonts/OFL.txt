@@ -1,8 +1,8 @@
-Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)
+Copyright 2024 The Inclusive Sans Project Authors (https://github.com/LivKing/Inclusive-Sans)
 
 This notice covers the font families bundled with this style:
 
-  Nunito (version 3.602) - fonts/Nunito-*.woff, fonts/Nunito-*.woff2
+  Inclusive Sans (version 2.004) - fonts/InclusiveSans-*VariableFont_wght.ttf
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

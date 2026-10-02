@@ -4,7 +4,7 @@
 <userPreferences>
   <userPreference>
     <key>theme</key>
-    <value>neo</value>
+    <value>educablue</value>
   </userPreference>
 </userPreferences>
 <odeResources>
@@ -53,7 +53,7 @@ Grado Transición </value>
   </odeProperty>
   <odeProperty>
     <key>pp_theme</key>
-    <value>neo</value>
+    <value>educablue</value>
   </odeProperty>
   <odeProperty>
     <key>pp_exelearning_version</key>
@@ -61,7 +61,7 @@ Grado Transición </value>
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1790910516812</value>
+    <value>1790913237877</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -224,7 +224,7 @@ Grado Transición </value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>highlight</key>
-      <value>false</value>
+      <value>true</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>hidePageTitle</key>
@@ -240,6 +240,14 @@ Grado Transición </value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
+      <value>FORMATO DE PLANEACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
       <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
