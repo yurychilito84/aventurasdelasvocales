@@ -61,7 +61,7 @@ Grado Transición </value>
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1790913237877</value>
+    <value>1790979903826</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -209,110 +209,22 @@ Grado Transición </value>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-muq8aduy-advkzuteo</odePageId>
+  <odePageId>page-murj89o3-2yg1yuijq</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>FORMATO DE PLANEACIÓN</pageName>
+  <pageName>Inicio e Información del Recurso</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>FORMATO DE PLANEACIÓN</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>visibility</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>highlight</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>FORMATO DE PLANEACIÓN</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value>FORMATO DE PLANEACIÓN</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleHtml</key>
-      <value></value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>description</key>
-      <value></value>
+      <value>Inicio e Información del Recurso</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
-    <odePagStructure>
-      <odePageId>page-muq8aduy-advkzuteo</odePageId>
-      <odeBlockId>block-muqdivou-oqyih26t0</odeBlockId>
-      <blockName></blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>0</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-muq8aduy-advkzuteo</odePageId>
-          <odeBlockId>block-muqdivou-oqyih26t0</odeBlockId>
-          <odeIdeviceId>idevice-1790909916651-526hfj7yc</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p style="text-align: center;"><a href="https://drive.google.com/file/d/1E7tzcG6ptpJiZS8zeR8dKyXW2LWOIhZR/view?usp=drive_link"><strong title="" onclick="window.open('https://drive.google.com/file/d/1E7tzcG6ptpJiZS8zeR8dKyXW2LWOIhZR/view?usp=drive_link','Grupo_91_Anexo_7_Planeacion_LABINNOVA_Vocales_Transicion','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">Grupo_91_Anexo_7_Planeacion_LABINNOVA_Vocales_Transicion</strong></a></p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790909916651-526hfj7yc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><a href=\"https://drive.google.com/file/d/1E7tzcG6ptpJiZS8zeR8dKyXW2LWOIhZR/view?usp=drive_link\"><strong title=\"\" onclick=\"window.open('https://drive.google.com/file/d/1E7tzcG6ptpJiZS8zeR8dKyXW2LWOIhZR/view?usp=drive_link','Grupo_91_Anexo_7_Planeacion_LABINNOVA_Vocales_Transicion','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">Grupo_91_Anexo_7_Planeacion_LABINNOVA_Vocales_Transicion</strong></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
   <odePageId>page-muq8az0x-5oc6rd60i</odePageId>
-  <odeParentPageId>page-muq8aduy-advkzuteo</odeParentPageId>
+  <odeParentPageId>page-murj89o3-2yg1yuijq</odeParentPageId>
   <pageName>Nombre del recurso</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -419,7 +331,7 @@ Grado Transición </value>
 </odeNavStructure>
 <odeNavStructure>
   <odePageId>page-muq8b92i-w3xyfz8sj</odePageId>
-  <odeParentPageId>page-muq8aduy-advkzuteo</odeParentPageId>
+  <odeParentPageId>page-murj89o3-2yg1yuijq</odeParentPageId>
   <pageName>Recurso Gamificado</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -526,7 +438,7 @@ Grado Transición </value>
 </odeNavStructure>
 <odeNavStructure>
   <odePageId>page-muq8bgbt-39dxkp0of</odePageId>
-  <odeParentPageId>page-muq8aduy-advkzuteo</odeParentPageId>
+  <odeParentPageId>page-murj89o3-2yg1yuijq</odeParentPageId>
   <pageName>Recurso Educativo Digital</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -633,7 +545,7 @@ Grado Transición </value>
 </odeNavStructure>
 <odeNavStructure>
   <odePageId>page-muq8boib-vu1x3bho7</odePageId>
-  <odeParentPageId>page-muq8aduy-advkzuteo</odeParentPageId>
+  <odeParentPageId>page-murj89o3-2yg1yuijq</odeParentPageId>
   <pageName>Problema que busca solucionar</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -740,7 +652,7 @@ Grado Transición </value>
 </odeNavStructure>
 <odeNavStructure>
   <odePageId>page-muq8bvvs-wp85y0gnf</odePageId>
-  <odeParentPageId>page-muq8aduy-advkzuteo</odeParentPageId>
+  <odeParentPageId>page-murj89o3-2yg1yuijq</odeParentPageId>
   <pageName>Propósito del Recurso</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -847,7 +759,7 @@ Grado Transición </value>
 </odeNavStructure>
 <odeNavStructure>
   <odePageId>page-muq8c5c8-yys2l2fza</odePageId>
-  <odeParentPageId>page-muq8aduy-advkzuteo</odeParentPageId>
+  <odeParentPageId>page-murj89o3-2yg1yuijq</odeParentPageId>
   <pageName>Objetivo de aprendizaje del Recurso</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -953,10 +865,103 @@ Grado Transición </value>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
+  <odePageId>page-murjenul-ar8yge4f9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Fundamentación Pedagógica y Multimedia</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fundamentación Pedagógica y Multimedia</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-murjenul-ar8yge4f9</odePageId>
+      <odeBlockId>block-murjv8nn-ve3fiz7m8</odeBlockId>
+      <blockName>Alineación Pedagógica del RED</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-murjenul-ar8yge4f9</odePageId>
+          <odeBlockId>block-murjv8nn-ve3fiz7m8</odeBlockId>
+          <odeIdeviceId>idevice-murjv8no-ex9q6esok</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" height="217" style="width: 99.7908%; height: 349.6px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;">
+<tbody>
+<tr style="height: 35.2px;">
+<td style="width: 37.0388%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid; height: 35.2px;"><span style="font-size: 18pt;"><strong><span style="color: #ecf0f1;">Componente</span></strong></span></td>
+<td style="width: 62.9402%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid; height: 35.2px;"><strong><span style="font-size: 18pt; color: #ecf0f1;">Descripción</span></strong></td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 37.0388%; text-align: justify; border-color: #3598db; border-style: solid; height: 80.8px;"><strong>Pensamiento asociado a la problemática</strong></td>
+<td style="width: 62.9402%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px; height: 80.8px;">Pensamiento / Enfoque pedagógico: Desarrollo del pensamiento lenguaje-comunicativo a través de la conciencia fonológica activa, la estimulación multisensorial y la discriminación visoperceptiva. </td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 37.0388%; text-align: justify; border-color: #3598db; border-style: solid; height: 80.8px;"><strong>Problemática</strong></td>
+<td style="width: 62.9402%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px; height: 80.8px;">La necesidad de fortalecer el reconocimiento, la escucha/pronunciación y la escritura inicial de las vocales en niños de grado Transición.</td>
+</tr>
+<tr style="height: 152.8px;">
+<td style="width: 37.0388%; text-align: justify; border-color: #3598db; border-style: solid; height: 152.8px;"><strong>DBA asociado a la problemática</strong></td>
+<td style="width: 62.9402%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px; height: 152.8px;">Pertenece al Propósito 2 del Ministerio de Educación Nacional para Transición (Expresión, comunicación y relaciones sonoras del lenguaje).  Enfocado en los DBA (Derechos Básicos de Aprendizaje) donde el estudiante expresa ideas a través de lenguajes gráficos/grafías, identifica relaciones sonoras del lenguaje oral en la vida cotidiana e interpreta imágenes y letras asociándolas con su entorno.</td>
+</tr>
+<tr>
+<td style="width: 37.0388%; text-align: justify; border-color: #3598db; border-style: solid;"><strong>Estándar / Referente curricular que abordará</strong></td>
+<td style="width: 62.9402%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;">DBA para Grado Transición (Propósito 2: relaciones sonoras del lenguaje oral, interpretación de letras y expresión mediante grafías semejantes a las convencionales).</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-murjv8no-ex9q6esok","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.7908%; height: 349.6px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr style=\"height: 35.2px;\">\n<td style=\"width: 37.0388%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid; height: 35.2px;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Componente</span></strong></span></td>\n<td style=\"width: 62.9402%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid; height: 35.2px;\"><strong><span style=\"font-size: 18pt; color: #ecf0f1;\">Descripción</span></strong></td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 37.0388%; text-align: justify; border-color: #3598db; border-style: solid; height: 80.8px;\"><strong>Pensamiento asociado a la problemática</strong></td>\n<td style=\"width: 62.9402%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px; height: 80.8px;\">Pensamiento / Enfoque pedagógico: Desarrollo del pensamiento lenguaje-comunicativo a través de la conciencia fonológica activa, la estimulación multisensorial y la discriminación visoperceptiva. </td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 37.0388%; text-align: justify; border-color: #3598db; border-style: solid; height: 80.8px;\"><strong>Problemática</strong></td>\n<td style=\"width: 62.9402%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px; height: 80.8px;\">La necesidad de fortalecer el reconocimiento, la escucha/pronunciación y la escritura inicial de las vocales en niños de grado Transición.</td>\n</tr>\n<tr style=\"height: 152.8px;\">\n<td style=\"width: 37.0388%; text-align: justify; border-color: #3598db; border-style: solid; height: 152.8px;\"><strong>DBA asociado a la problemática</strong></td>\n<td style=\"width: 62.9402%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px; height: 152.8px;\">Pertenece al Propósito 2 del Ministerio de Educación Nacional para Transición (Expresión, comunicación y relaciones sonoras del lenguaje).  Enfocado en los DBA (Derechos Básicos de Aprendizaje) donde el estudiante expresa ideas a través de lenguajes gráficos/grafías, identifica relaciones sonoras del lenguaje oral en la vida cotidiana e interpreta imágenes y letras asociándolas con su entorno.</td>\n</tr>\n<tr>\n<td style=\"width: 37.0388%; text-align: justify; border-color: #3598db; border-style: solid;\"><strong>Estándar / Referente curricular que abordará</strong></td>\n<td style=\"width: 62.9402%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\">DBA para Grado Transición (Propósito 2: relaciones sonoras del lenguaje oral, interpretación de letras y expresión mediante grafías semejantes a las convencionales).</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
   <odePageId>page-muq8cg83-bi4ywd2k3</odePageId>
-  <odeParentPageId>page-muq8aduy-advkzuteo</odeParentPageId>
+  <odeParentPageId>page-murjenul-ar8yge4f9</odeParentPageId>
   <pageName>Propuesta de contenido académico y disciplinar</pageName>
-  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1210,9 +1215,9 @@ Grado Transición </value>
 </odeNavStructure>
 <odeNavStructure>
   <odePageId>page-muq8e53d-d40uvxisy</odePageId>
-  <odeParentPageId>page-muq8aduy-advkzuteo</odeParentPageId>
+  <odeParentPageId>page-murjenul-ar8yge4f9</odeParentPageId>
   <pageName>Propuesta de recursos multimedia</pageName>
-  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1317,9 +1322,9 @@ Grado Transición </value>
 </odeNavStructure>
 <odeNavStructure>
   <odePageId>page-muq8efq9-ksaivci46</odePageId>
-  <odeParentPageId>page-muq8aduy-advkzuteo</odeParentPageId>
+  <odeParentPageId>page-murjenul-ar8yge4f9</odeParentPageId>
   <pageName>Estrategia de Aprendizaje</pageName>
-  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1427,10 +1432,24 @@ Grado Transición </value>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
+  <odePageId>page-murjgi3p-mpwnp1542</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades y Retos Interactivos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades y Retos Interactivos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
   <odePageId>page-muq8eoyo-e1lv9olbo</odePageId>
-  <odeParentPageId>page-muq8aduy-advkzuteo</odeParentPageId>
+  <odeParentPageId>page-murjgi3p-mpwnp1542</odeParentPageId>
   <pageName>Actividades de aprendizaje</pageName>
-  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1467,7 +1486,7 @@ Grado Transición </value>
       <odeBlockId>block-muqbaeq8-16zpemo4o</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -1498,7 +1517,6 @@ Grado Transición </value>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p><strong>Actividades de aprendizaje</strong></p>
-<p><strong>Retos, juegos, preguntas, entre otras</strong></p>
 <ul>
 <li>Escuchar e identificar las vocales mediante sonidos y movimientos de la boca. </li>
 <li>Imitar los sonidos vocálicos y reconocer la vocal correspondiente. </li>
@@ -1513,7 +1531,79 @@ Grado Transición </value>
 <li>Integrar los aprendizajes mediante el reto final de las tres estaciones.</li>
 <li>Escribir de manera autónoma una vocal, relacionada con su nombre o con una imagen de su interés.<br /></li>
 </ul>
-<p><br /></p>
+<p><br /><br /></p>
+<ul></ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790906162192-pwm4sbeu6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Actividades de aprendizaje</strong></p>\n<ul>\n<li>Escuchar e identificar las vocales mediante sonidos y movimientos de la boca. </li>\n<li>Imitar los sonidos vocálicos y reconocer la vocal correspondiente. </li>\n<li>Relacionar vocales con imágenes y objetos cuyos nombres comienzan con ellas. </li>\n<li>Clasificar objetos e imágenes según su vocal inicial. </li>\n<li>Identificar vocales dentro de palabras sencillas. </li>\n<li>Localizar vocales repetidas y determinar su posición dentro de las palabras. </li>\n<li>Realizar trazos de las vocales mediante actividades corporales y sensoriales. </li>\n<li>Practicar la escritura de las vocales utilizando materiales concretos y recursos digitales. </li>\n<li>Completar palabras con la vocal que falta. </li>\n<li>Construir palabras sencillas a partir de imágenes y vocales. </li>\n<li>Integrar los aprendizajes mediante el reto final de las tres estaciones.</li>\n<li>Escribir de manera autónoma una vocal, relacionada con su nombre o con una imagen de su interés.<br /></li>\n</ul>\n<p><br /><br /></p>\n<ul></ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-murjl14p-rtaesvjk2</odePageId>
+  <odeParentPageId>page-murjgi3p-mpwnp1542</odeParentPageId>
+  <pageName>Retos, juegos y preguntas</pageName>
+  <odeNavStructureOrder>20</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Retos, juegos y preguntas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-murjl14p-rtaesvjk2</odePageId>
+      <odeBlockId>block-murjlc6u-uiciaxn5q</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-murjl14p-rtaesvjk2</odePageId>
+          <odeBlockId>block-murjlc6u-uiciaxn5q</odeBlockId>
+          <odeIdeviceId>idevice-murjlc6v-yt4r13zxz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Retos, juegos, preguntas, entre otras</strong></p>
+<p></p>
 <div class="exe-fx exe-tabs">
 <h2>Módulo 1</h2>
 <p><strong>Conciencia Fonológica y Escucha Activa</strong></p>
@@ -1683,109 +1773,7 @@ Grado Transición </value>
 <p><br /><br /></p>
 <ul></ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790906162192-pwm4sbeu6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Actividades de aprendizaje</strong></p>\n<p><strong>Retos, juegos, preguntas, entre otras</strong></p>\n<ul>\n<li>Escuchar e identificar las vocales mediante sonidos y movimientos de la boca. </li>\n<li>Imitar los sonidos vocálicos y reconocer la vocal correspondiente. </li>\n<li>Relacionar vocales con imágenes y objetos cuyos nombres comienzan con ellas. </li>\n<li>Clasificar objetos e imágenes según su vocal inicial. </li>\n<li>Identificar vocales dentro de palabras sencillas. </li>\n<li>Localizar vocales repetidas y determinar su posición dentro de las palabras. </li>\n<li>Realizar trazos de las vocales mediante actividades corporales y sensoriales. </li>\n<li>Practicar la escritura de las vocales utilizando materiales concretos y recursos digitales. </li>\n<li>Completar palabras con la vocal que falta. </li>\n<li>Construir palabras sencillas a partir de imágenes y vocales. </li>\n<li>Integrar los aprendizajes mediante el reto final de las tres estaciones.</li>\n<li>Escribir de manera autónoma una vocal, relacionada con su nombre o con una imagen de su interés.<br /></li>\n</ul>\n<p><br /></p>\n<div class=\"exe-fx exe-tabs\">\n<h2>Módulo 1</h2>\n<p><strong>Conciencia Fonológica y Escucha Activa</strong></p>\n<p><strong>Actividad 1: ¿Qué vocal escucho?</strong></p>\n<ul>\n<li><strong>Juego en el aula: </strong>\"El Espejo Mágico de los Monstruos de la Boca\"\n<ul>\n<li><strong>Dinámica:</strong> La docente entrega un espejo pequeño a cada niño o hace la mímica frente al grupo. La docente emite un sonido alargado sin decir la letra (\"AAAAAAAAAvión\"). Los niños deben mirar la forma de la boca de la maestra e imitarla en su espejo para adivinar qué vocal es.</li>\n</ul>\n</li>\n<li><strong>Preguntas para los niños:</strong>\n<ul>\n<li>\"¿Cómo pusimos la boca para decir AAAAAA? ¿Grande como para comer pastel o chiquita como una pulguita?\"</li>\n<li>\"Si hago una sonrisa gigante y muestro los dientes diciendo EEEEEE, ¿qué vocal se está escapando?\"</li>\n<li>\"Escuchen este sonido: UUUUUU... ¿a qué animalito o tren nos parecemos cuando lo hacemos?\"</li>\n</ul>\n</li>\n<li><strong>Reto interactivo (TIC / Genially o Canva):</strong> \" Que vocal escucho”: El niño escucha los sonidos de las vocales y debe repetir e identificar. </li>\n</ul>\n<p><strong>Juego interactivo</strong></p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200\" height=\"675\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"1.¿Qué vocal escucho?\" frameborder=\"0\" src=\"https://view.genially.com/6abc7ce9d0fa46379d281212\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n</div>\n<p><strong></strong><br /></p>\n<h2>Módulo 2</h2>\n<p><strong>Asociación Visoperceptiva y Léxica</strong></p>\n<p><strong>Actividad 2: Une la vocal con su imagen</strong></p>\n<ul>\n<li><strong>Juego en el aula: \"El Tren de los Equipajes\"</strong>\n<ul>\n<li><strong>Dinámica: </strong>Hay 5 vagones en el suelo, cada uno rotulado con una vocal (A, E, I, O, U). Los niños tienen fichas o juguetes reales (un oso de peluche, una uva de plástico, un avión de juguete). Deben correr y meter cada objeto en su vagón correspondiente.</li>\n</ul>\n</li>\n<li><strong>Preguntas para los niños:</strong>\n<ul>\n<li>\"Tengo en mi mano un 👁️ Ojo. ¿En qué vagón se quiere subir?, ¿en el vagón de la A o en el vagón de la O?\"</li>\n<li>\"Si llevo una ⭐ Estrella, ¿con qué sonido empieza cuando la saludo en la noche?\"</li>\n<li>\"Si me equivoco y pongo el 🐘 Elefante en la I, ¿cómo sonaría? ¡'Ilefante'! ¿Verdad que suena muy chistoso?\"</li>\n</ul>\n</li>\n<li><strong>Reto interactivo en Educaplay: \"Une la vocal con su imagen\"</strong>\n<ul>\n<li>El niño debe relacionar las vocales con la imagen que corresponda. </li>\n</ul>\n</li>\n</ul>\n<p><strong>Juego interactivo</strong></p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200\" height=\"675\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"2.Une la vocal con su imagen\" frameborder=\"0\" src=\"https://view.genially.com/6abc7d862bff0cf34ffaa86f\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n</div>\n<p><br /></p>\n<h2>Módulo 3</h2>\n<p><strong>Discriminación Dentro del Contexto</strong></p>\n<p><strong>Actividad 3: Caza la vocal</strong></p>\n<ul>\n<li><strong>Juego en el aula: \"Detectives de Palabras\"</strong>\n<ul>\n<li><strong>Dinámica: </strong>Se pegan tarjetas con palabras sencillas en las paredes del salón (M A R I P O S A, E S T R E L L A, O S I T O). Los niños reciben una \"lupa de cartón\" con filtro de papel celofán amarillo y pegatinas de colores.</li>\n</ul>\n</li>\n<li><strong>Consigna del juego (Código de Colores):</strong>\n<ul>\n<li><strong>🟡 A = </strong>Pegatina Amarilla</li>\n<li><strong>🔵 E = </strong>Pegatina Azul</li>\n<li><strong>🔴 I = </strong>Pegatina Roja</li>\n<li><strong>🟢 O = </strong>Pegatina Verde</li>\n<li><strong>🟠 U = </strong>Pegatina Naranja</li>\n</ul>\n</li>\n<li><strong>Preguntas para los niños:</strong>\n<ul>\n<li>\"Abran bien los ojos, detectives... En la palabra P A T O, ¿cuántas vocales hay escondidas?\"</li>\n<li>\"¿Quién puede encontrar la vocal O que se escondió al final de la palabra O S O?\"</li>\n<li>\"¿Qué vocal aparece repetida dos veces en la palabra C A S A?\"</li>\n</ul>\n</li>\n<li><strong>Reto interactivo en Genially y Educaplay: \"Casa la vocal\"</strong>\n<ul>\n<li>El niño debe identificar las vocales en diferentes palabras.</li>\n</ul>\n</li>\n</ul>\n<p><strong>Juego interactivo</strong></p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200\" height=\"675\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"3.Caza la vocal\" frameborder=\"0\" src=\"https://view.genially.com/6abd44adb57547e66653ccee\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n</div>\n<p><br /></p>\n<h2>Módulo 4</h2>\n<p><strong>Grafomotricidad y Dominio Visomotor</strong></p>\n<p><strong>Actividad 4: Trazo mágico</strong></p>\n<ul>\n<li><strong>Juego en el aula: \"Caminos de Harina y Pista de Carros\"</strong>\n<ul>\n<li><strong>Momento 1 (Cuerpo): </strong>Dibujar las vocales gigantes en el suelo con cinta enmascarar. Los niños caminan sobre ellas siguiendo la direccionalidad (subir, bajar, cruzar).</li>\n<li><strong>Momento 2 (Sensorial): </strong>Trazar la vocal sobre una bandeja con harina, arena de colores o crema de afeitar usando el dedo índice.</li>\n<li><strong>Momento 3 (Papel/Pantalla): </strong>Desplazar un carrito de juguete siguiendo las líneas punteadas.</li>\n</ul>\n</li>\n<li><strong>Preguntas para los niños:</strong>\n<ul>\n<li>\"Para hacer la A mayúscula: ¿empezamos a subir como un cohete espacial o bajamos como un tobogán?\"</li>\n<li>\"La O es redondita... ¿parece una pelota de fútbol o una caja de regalos?\"</li>\n<li>\"La i minúscula lleva un sombrerito arriba... ¿alguien se acuerda de ponérselo o se le va a enfriar la cabeza?\"</li>\n</ul>\n</li>\n<li><strong>Reto interactivo en Genially programado en HTML: \"Trazo Mágico\"</strong>\n<ul>\n<li>El niño debe realizar los trazos de las vocales que aparecen en la pantalla con el cursor.</li>\n</ul>\n</li>\n</ul>\n<p><strong>Juego interactivo</strong></p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200\" height=\"675\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"4.Trazo_Mágico\" frameborder=\"0\" src=\"https://view.genially.com/6abd7fa27ef1575830c399b7\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n</div>\n<p><strong></strong><br /></p>\n<h2>Módulo 5</h2>\n<p><strong>Síntesis Inicial y Producción Léxica</strong></p>\n<p><strong>Actividad 5: Construyo palabras</strong></p>\n<ul>\n<li><strong>Juego en el aula: \"El Rompecabezas Incompleto\"</strong>\n<ul>\n<li><strong>Dinámica: </strong>Se muestra una lámina con un dibujo y la palabra incompleta: _ R B O L. Los niños tienen un banco de vocales en madera o foamy y deben probar cuál encaja correctamente.</li>\n</ul>\n</li>\n<li><strong>Preguntas para los niños:</strong>\n<ul>\n<li>\"Miren esta foto... es una 🍇 Uva. Aquí dice _ V A. Si le pongo la E, dice 'EVA'... ¿las uvas se llaman 'evas' o 'uvas'?\"</li>\n<li>\"¿Qué vocal nos falta al principio para que diga 🏝️ Isla?\"</li>\n<li>\"Si ponemos la A al inicio de _ B E J A, ¿qué palabra logramos cantar?\"</li>\n</ul>\n</li>\n<li><strong>Reto interactivo en Genially con WordWall: \"Construyo Palabras\"</strong>\n<ul>\n<li>El niño identifica las vocales con las cuales inicia cada imagen que aparecen en las cartas.</li>\n</ul>\n</li>\n</ul>\n<p><strong>Juego interactivo</strong></p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200\" height=\"675\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"5.Construyo_Palabras\" frameborder=\"0\" src=\"https://view.genially.com/6abd8b5bf7f9b8f59fcedfbf\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n</div>\n<p><strong></strong><br /></p>\n<h2>Módulo Final</h2>\n<p><strong>Reto Integrador</strong></p>\n<p><strong>🏆 \"El Gran Mapa del Tesoro de las Vocales\"</strong></p>\n<p>Este reto combina movimiento físico, tecnología e interacción en el aula dividida en 3 estaciones:</p>\n<p>              RETO FINAL: EL TESORO 3D                    </p>\n<p> Estación 1: La Cueva del Sonido (Discriminación)         </p>\n<p> Estación 2: El Pantano de las Letras (Búsqueda Visual)   </p>\n<p>Estación 3: El Cofre del Tesoro (Escritura Autónoma)     </p>\n<p><strong>Estación 1: La Cueva del Sonido</strong></p>\n<ul>\n<li><strong>Desafío:</strong> Escuchar el rugido de un animal o personaje misterioso desde un reproductor/tablet y poner la cara de la boca que emite esa vocal (\"AAAAA\", \"OOOOO\").</li>\n<li><strong>Pregunta de paso:</strong> \"¿Qué sonido abrió la puerta de la cueva?\"</li>\n</ul>\n<p><br /><strong>Estación 2: El Pantano de las Letras</strong></p>\n<ul>\n<li><strong>Desafío:</strong> Cruzar un camino de colchonetas o aros pescando con una caña imantada la vocal que le falta a la tarjeta de su personaje (ejemplo: pescar la I para la _ G U A N A).</li>\n</ul>\n<p><br /><strong>Estación 3:</strong> <strong>El Cofre Mágico del Tesoro</strong></p>\n<ul>\n<li><strong>Desafío de Escritura Autónoma:</strong> Llegar al cofre final, abrirlo y elegir una técnica (tiza líquida, masa para moldear, pintura con dedos o lápiz digital) para escribir la vocal inicial de su propio nombre o de su imagen favorita.</li>\n<li><strong>Incentivo:</strong> ¡Recibir la medalla de \"Superdetector de Vocales\"!</li>\n</ul>\n</div>\n<p><br /><br /></p>\n<ul></ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-  </odePagStructures>
-</odeNavStructure>
-<odeNavStructure>
-  <odePageId>page-muq8fn3l-4f455gunh</odePageId>
-  <odeParentPageId>page-muq8aduy-advkzuteo</odeParentPageId>
-  <pageName>Realimentaciones</pageName>
-  <odeNavStructureOrder>10</odeNavStructureOrder>
-  <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Realimentaciones</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>visibility</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>highlight</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Realimentaciones</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value></value>
-    </odeNavStructureProperty>
-  </odeNavStructureProperties>
-  <odePagStructures>
-    <odePagStructure>
-      <odePageId>page-muq8fn3l-4f455gunh</odePageId>
-      <odeBlockId>block-muqcl1rj-v9hawxhix</odeBlockId>
-      <blockName></blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-muq8fn3l-4f455gunh</odePageId>
-          <odeBlockId>block-muqcl1rj-v9hawxhix</odeBlockId>
-          <odeIdeviceId>idevice-1790908338220-vfnl4t06t</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p><strong>Realimentaciones acordes con el contenido y el propósito </strong></p>
-<p><strong><img src="{{context_path}}/content/resources/mceclip1.png" width="761" height="514" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p>
-<p><strong></strong></p>
-<p>Realimentación final en la matriz de evaluación cualitativa:</p>
-<ul>
-<li style="text-align: justify;"><strong>Logro destacado: </strong>Reconoce las vocales, diferencia sus sonidos, las relaciona con imágenes y palabras, identifica su presencia dentro de diferentes palabras y realiza grafías semejantes a las convencionales con progresiva autonomía.</li>
-<li style="text-align: justify;"><strong>En proceso: </strong>Reconoce algunas vocales y sus sonidos, establece relaciones entre vocales e imágenes y realiza aproximaciones a su escritura. Requiere continuar fortaleciendo la discriminación auditiva, el reconocimiento visual y la direccionalidad del trazo.</li>
-<li style="text-align: justify;"><strong>Requiere acompañamiento:</strong> Se encuentra en proceso de reconocer y diferenciar las vocales. Necesita acompañamiento mediante actividades de escucha, asociación imagen-vocal, exploración multisensorial y trazos guiados para avanzar hacia una mayor autonomía.</li>
-</ul>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790908338220-vfnl4t06t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Realimentaciones acordes con el contenido y el propósito </strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/mceclip1.png\" width=\"761\" height=\"514\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></p>\n<p><strong></strong></p>\n<p>Realimentación final en la matriz de evaluación cualitativa:</p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Logro destacado: </strong>Reconoce las vocales, diferencia sus sonidos, las relaciona con imágenes y palabras, identifica su presencia dentro de diferentes palabras y realiza grafías semejantes a las convencionales con progresiva autonomía.</li>\n<li style=\"text-align: justify;\"><strong>En proceso: </strong>Reconoce algunas vocales y sus sonidos, establece relaciones entre vocales e imágenes y realiza aproximaciones a su escritura. Requiere continuar fortaleciendo la discriminación auditiva, el reconocimiento visual y la direccionalidad del trazo.</li>\n<li style=\"text-align: justify;\"><strong>Requiere acompañamiento:</strong> Se encuentra en proceso de reconocer y diferenciar las vocales. Necesita acompañamiento mediante actividades de escucha, asociación imagen-vocal, exploración multisensorial y trazos guiados para avanzar hacia una mayor autonomía.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-murjlc6v-yt4r13zxz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Retos, juegos, preguntas, entre otras</strong></p>\n<p></p>\n<div class=\"exe-fx exe-tabs\">\n<h2>Módulo 1</h2>\n<p><strong>Conciencia Fonológica y Escucha Activa</strong></p>\n<p><strong>Actividad 1: ¿Qué vocal escucho?</strong></p>\n<ul>\n<li><strong>Juego en el aula: </strong>\"El Espejo Mágico de los Monstruos de la Boca\"\n<ul>\n<li><strong>Dinámica:</strong> La docente entrega un espejo pequeño a cada niño o hace la mímica frente al grupo. La docente emite un sonido alargado sin decir la letra (\"AAAAAAAAAvión\"). Los niños deben mirar la forma de la boca de la maestra e imitarla en su espejo para adivinar qué vocal es.</li>\n</ul>\n</li>\n<li><strong>Preguntas para los niños:</strong>\n<ul>\n<li>\"¿Cómo pusimos la boca para decir AAAAAA? ¿Grande como para comer pastel o chiquita como una pulguita?\"</li>\n<li>\"Si hago una sonrisa gigante y muestro los dientes diciendo EEEEEE, ¿qué vocal se está escapando?\"</li>\n<li>\"Escuchen este sonido: UUUUUU... ¿a qué animalito o tren nos parecemos cuando lo hacemos?\"</li>\n</ul>\n</li>\n<li><strong>Reto interactivo (TIC / Genially o Canva):</strong> \" Que vocal escucho”: El niño escucha los sonidos de las vocales y debe repetir e identificar. </li>\n</ul>\n<p><strong>Juego interactivo</strong></p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200\" height=\"675\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"1.¿Qué vocal escucho?\" frameborder=\"0\" src=\"https://view.genially.com/6abc7ce9d0fa46379d281212\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n</div>\n<p><strong></strong><br /></p>\n<h2>Módulo 2</h2>\n<p><strong>Asociación Visoperceptiva y Léxica</strong></p>\n<p><strong>Actividad 2: Une la vocal con su imagen</strong></p>\n<ul>\n<li><strong>Juego en el aula: \"El Tren de los Equipajes\"</strong>\n<ul>\n<li><strong>Dinámica: </strong>Hay 5 vagones en el suelo, cada uno rotulado con una vocal (A, E, I, O, U). Los niños tienen fichas o juguetes reales (un oso de peluche, una uva de plástico, un avión de juguete). Deben correr y meter cada objeto en su vagón correspondiente.</li>\n</ul>\n</li>\n<li><strong>Preguntas para los niños:</strong>\n<ul>\n<li>\"Tengo en mi mano un 👁️ Ojo. ¿En qué vagón se quiere subir?, ¿en el vagón de la A o en el vagón de la O?\"</li>\n<li>\"Si llevo una ⭐ Estrella, ¿con qué sonido empieza cuando la saludo en la noche?\"</li>\n<li>\"Si me equivoco y pongo el 🐘 Elefante en la I, ¿cómo sonaría? ¡'Ilefante'! ¿Verdad que suena muy chistoso?\"</li>\n</ul>\n</li>\n<li><strong>Reto interactivo en Educaplay: \"Une la vocal con su imagen\"</strong>\n<ul>\n<li>El niño debe relacionar las vocales con la imagen que corresponda. </li>\n</ul>\n</li>\n</ul>\n<p><strong>Juego interactivo</strong></p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200\" height=\"675\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"2.Une la vocal con su imagen\" frameborder=\"0\" src=\"https://view.genially.com/6abc7d862bff0cf34ffaa86f\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n</div>\n<p><br /></p>\n<h2>Módulo 3</h2>\n<p><strong>Discriminación Dentro del Contexto</strong></p>\n<p><strong>Actividad 3: Caza la vocal</strong></p>\n<ul>\n<li><strong>Juego en el aula: \"Detectives de Palabras\"</strong>\n<ul>\n<li><strong>Dinámica: </strong>Se pegan tarjetas con palabras sencillas en las paredes del salón (M A R I P O S A, E S T R E L L A, O S I T O). Los niños reciben una \"lupa de cartón\" con filtro de papel celofán amarillo y pegatinas de colores.</li>\n</ul>\n</li>\n<li><strong>Consigna del juego (Código de Colores):</strong>\n<ul>\n<li><strong>🟡 A = </strong>Pegatina Amarilla</li>\n<li><strong>🔵 E = </strong>Pegatina Azul</li>\n<li><strong>🔴 I = </strong>Pegatina Roja</li>\n<li><strong>🟢 O = </strong>Pegatina Verde</li>\n<li><strong>🟠 U = </strong>Pegatina Naranja</li>\n</ul>\n</li>\n<li><strong>Preguntas para los niños:</strong>\n<ul>\n<li>\"Abran bien los ojos, detectives... En la palabra P A T O, ¿cuántas vocales hay escondidas?\"</li>\n<li>\"¿Quién puede encontrar la vocal O que se escondió al final de la palabra O S O?\"</li>\n<li>\"¿Qué vocal aparece repetida dos veces en la palabra C A S A?\"</li>\n</ul>\n</li>\n<li><strong>Reto interactivo en Genially y Educaplay: \"Casa la vocal\"</strong>\n<ul>\n<li>El niño debe identificar las vocales en diferentes palabras.</li>\n</ul>\n</li>\n</ul>\n<p><strong>Juego interactivo</strong></p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200\" height=\"675\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"3.Caza la vocal\" frameborder=\"0\" src=\"https://view.genially.com/6abd44adb57547e66653ccee\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n</div>\n<p><br /></p>\n<h2>Módulo 4</h2>\n<p><strong>Grafomotricidad y Dominio Visomotor</strong></p>\n<p><strong>Actividad 4: Trazo mágico</strong></p>\n<ul>\n<li><strong>Juego en el aula: \"Caminos de Harina y Pista de Carros\"</strong>\n<ul>\n<li><strong>Momento 1 (Cuerpo): </strong>Dibujar las vocales gigantes en el suelo con cinta enmascarar. Los niños caminan sobre ellas siguiendo la direccionalidad (subir, bajar, cruzar).</li>\n<li><strong>Momento 2 (Sensorial): </strong>Trazar la vocal sobre una bandeja con harina, arena de colores o crema de afeitar usando el dedo índice.</li>\n<li><strong>Momento 3 (Papel/Pantalla): </strong>Desplazar un carrito de juguete siguiendo las líneas punteadas.</li>\n</ul>\n</li>\n<li><strong>Preguntas para los niños:</strong>\n<ul>\n<li>\"Para hacer la A mayúscula: ¿empezamos a subir como un cohete espacial o bajamos como un tobogán?\"</li>\n<li>\"La O es redondita... ¿parece una pelota de fútbol o una caja de regalos?\"</li>\n<li>\"La i minúscula lleva un sombrerito arriba... ¿alguien se acuerda de ponérselo o se le va a enfriar la cabeza?\"</li>\n</ul>\n</li>\n<li><strong>Reto interactivo en Genially programado en HTML: \"Trazo Mágico\"</strong>\n<ul>\n<li>El niño debe realizar los trazos de las vocales que aparecen en la pantalla con el cursor.</li>\n</ul>\n</li>\n</ul>\n<p><strong>Juego interactivo</strong></p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200\" height=\"675\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"4.Trazo_Mágico\" frameborder=\"0\" src=\"https://view.genially.com/6abd7fa27ef1575830c399b7\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n</div>\n<p><strong></strong><br /></p>\n<h2>Módulo 5</h2>\n<p><strong>Síntesis Inicial y Producción Léxica</strong></p>\n<p><strong>Actividad 5: Construyo palabras</strong></p>\n<ul>\n<li><strong>Juego en el aula: \"El Rompecabezas Incompleto\"</strong>\n<ul>\n<li><strong>Dinámica: </strong>Se muestra una lámina con un dibujo y la palabra incompleta: _ R B O L. Los niños tienen un banco de vocales en madera o foamy y deben probar cuál encaja correctamente.</li>\n</ul>\n</li>\n<li><strong>Preguntas para los niños:</strong>\n<ul>\n<li>\"Miren esta foto... es una 🍇 Uva. Aquí dice _ V A. Si le pongo la E, dice 'EVA'... ¿las uvas se llaman 'evas' o 'uvas'?\"</li>\n<li>\"¿Qué vocal nos falta al principio para que diga 🏝️ Isla?\"</li>\n<li>\"Si ponemos la A al inicio de _ B E J A, ¿qué palabra logramos cantar?\"</li>\n</ul>\n</li>\n<li><strong>Reto interactivo en Genially con WordWall: \"Construyo Palabras\"</strong>\n<ul>\n<li>El niño identifica las vocales con las cuales inicia cada imagen que aparecen en las cartas.</li>\n</ul>\n</li>\n</ul>\n<p><strong>Juego interactivo</strong></p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200\" height=\"675\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"5.Construyo_Palabras\" frameborder=\"0\" src=\"https://view.genially.com/6abd8b5bf7f9b8f59fcedfbf\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n</div>\n<p><strong></strong><br /></p>\n<h2>Módulo Final</h2>\n<p><strong>Reto Integrador</strong></p>\n<p><strong>🏆 \"El Gran Mapa del Tesoro de las Vocales\"</strong></p>\n<p>Este reto combina movimiento físico, tecnología e interacción en el aula dividida en 3 estaciones:</p>\n<p>              RETO FINAL: EL TESORO 3D                    </p>\n<p> Estación 1: La Cueva del Sonido (Discriminación)         </p>\n<p> Estación 2: El Pantano de las Letras (Búsqueda Visual)   </p>\n<p>Estación 3: El Cofre del Tesoro (Escritura Autónoma)     </p>\n<p><strong>Estación 1: La Cueva del Sonido</strong></p>\n<ul>\n<li><strong>Desafío:</strong> Escuchar el rugido de un animal o personaje misterioso desde un reproductor/tablet y poner la cara de la boca que emite esa vocal (\"AAAAA\", \"OOOOO\").</li>\n<li><strong>Pregunta de paso:</strong> \"¿Qué sonido abrió la puerta de la cueva?\"</li>\n</ul>\n<p><br /><strong>Estación 2: El Pantano de las Letras</strong></p>\n<ul>\n<li><strong>Desafío:</strong> Cruzar un camino de colchonetas o aros pescando con una caña imantada la vocal que le falta a la tarjeta de su personaje (ejemplo: pescar la I para la _ G U A N A).</li>\n</ul>\n<p><br /><strong>Estación 3:</strong> <strong>El Cofre Mágico del Tesoro</strong></p>\n<ul>\n<li><strong>Desafío de Escritura Autónoma:</strong> Llegar al cofre final, abrirlo y elegir una técnica (tiza líquida, masa para moldear, pintura con dedos o lápiz digital) para escribir la vocal inicial de su propio nombre o de su imagen favorita.</li>\n<li><strong>Incentivo:</strong> ¡Recibir la medalla de \"Superdetector de Vocales\"!</li>\n</ul>\n</div>\n<p><br /><br /></p>\n<ul></ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1808,9 +1796,9 @@ Grado Transición </value>
 </odeNavStructure>
 <odeNavStructure>
   <odePageId>page-muq8g0wz-6wolksytc</odePageId>
-  <odeParentPageId>page-muq8aduy-advkzuteo</odeParentPageId>
+  <odeParentPageId>page-murjgi3p-mpwnp1542</odeParentPageId>
   <pageName>Interactividad</pageName>
-  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureOrder>21</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1927,10 +1915,126 @@ Grado Transición </value>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
+  <odePageId>page-murjpdbp-0shxhdwwy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación y Acompañamiento</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación y Acompañamiento</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muq8fn3l-4f455gunh</odePageId>
+  <odeParentPageId>page-murjpdbp-0shxhdwwy</odeParentPageId>
+  <pageName>Realimentaciones</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Realimentaciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Realimentaciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muq8fn3l-4f455gunh</odePageId>
+      <odeBlockId>block-muqcl1rj-v9hawxhix</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muq8fn3l-4f455gunh</odePageId>
+          <odeBlockId>block-muqcl1rj-v9hawxhix</odeBlockId>
+          <odeIdeviceId>idevice-1790908338220-vfnl4t06t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Realimentaciones acordes con el contenido y el propósito </strong></p>
+<p><strong><img src="{{context_path}}/content/resources/mceclip1.png" width="761" height="514" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p>
+<p><strong></strong></p>
+<p>Realimentación final en la matriz de evaluación cualitativa:</p>
+<ul>
+<li style="text-align: justify;"><strong>Logro destacado: </strong>Reconoce las vocales, diferencia sus sonidos, las relaciona con imágenes y palabras, identifica su presencia dentro de diferentes palabras y realiza grafías semejantes a las convencionales con progresiva autonomía.</li>
+<li style="text-align: justify;"><strong>En proceso: </strong>Reconoce algunas vocales y sus sonidos, establece relaciones entre vocales e imágenes y realiza aproximaciones a su escritura. Requiere continuar fortaleciendo la discriminación auditiva, el reconocimiento visual y la direccionalidad del trazo.</li>
+<li style="text-align: justify;"><strong>Requiere acompañamiento:</strong> Se encuentra en proceso de reconocer y diferenciar las vocales. Necesita acompañamiento mediante actividades de escucha, asociación imagen-vocal, exploración multisensorial y trazos guiados para avanzar hacia una mayor autonomía.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790908338220-vfnl4t06t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Realimentaciones acordes con el contenido y el propósito </strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/mceclip1.png\" width=\"761\" height=\"514\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></p>\n<p><strong></strong></p>\n<p>Realimentación final en la matriz de evaluación cualitativa:</p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Logro destacado: </strong>Reconoce las vocales, diferencia sus sonidos, las relaciona con imágenes y palabras, identifica su presencia dentro de diferentes palabras y realiza grafías semejantes a las convencionales con progresiva autonomía.</li>\n<li style=\"text-align: justify;\"><strong>En proceso: </strong>Reconoce algunas vocales y sus sonidos, establece relaciones entre vocales e imágenes y realiza aproximaciones a su escritura. Requiere continuar fortaleciendo la discriminación auditiva, el reconocimiento visual y la direccionalidad del trazo.</li>\n<li style=\"text-align: justify;\"><strong>Requiere acompañamiento:</strong> Se encuentra en proceso de reconocer y diferenciar las vocales. Necesita acompañamiento mediante actividades de escucha, asociación imagen-vocal, exploración multisensorial y trazos guiados para avanzar hacia una mayor autonomía.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
   <odePageId>page-muq8gal6-pli3thd23</odePageId>
-  <odeParentPageId>page-muq8aduy-advkzuteo</odeParentPageId>
+  <odeParentPageId>page-murjpdbp-0shxhdwwy</odeParentPageId>
   <pageName>Seguimiento del aprendizaje</pageName>
-  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -2032,9 +2136,9 @@ Grado Transición </value>
 </odeNavStructure>
 <odeNavStructure>
   <odePageId>page-muq8gm40-w21ggraxh</odePageId>
-  <odeParentPageId>page-muq8aduy-advkzuteo</odeParentPageId>
+  <odeParentPageId>page-murjpdbp-0shxhdwwy</odeParentPageId>
   <pageName>Enlace del RED creado en LabINNOVA</pageName>
-  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -2127,9 +2231,9 @@ Grado Transición </value>
 </odeNavStructure>
 <odeNavStructure>
   <odePageId>page-muq8higt-ci3lcghg7</odePageId>
-  <odeParentPageId>page-muq8aduy-advkzuteo</odeParentPageId>
+  <odeParentPageId></odeParentPageId>
   <pageName>Equipo de Trabajo</pageName>
-  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
